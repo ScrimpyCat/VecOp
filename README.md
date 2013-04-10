@@ -6,7 +6,7 @@ A vector/SIMD (when available) implementation. This refers to vectorization, not
 DO NOT USE!!!
 =============
 
-This is an incomplete implementation of what one would expect from a vector library. So it is not ready for actual use. It's missing lots of expected functionality from loads/stores, conditionals, packs/unpacks, logical/bitwise operations, etc. It's possible I may finish it off at one point, but it's better to assume I won't as this was more of an experimentation rather than something I want to create.
+This is an incomplete implementation of what one would expect from a vector library. So it is not ready for actual use. It's missing lots of expected functionality from loads/stores, conditionals, packs/unpacks, logical/bitwise operations, type conversions, etc. It's possible I may finish it off at one point, but it's better to assume I won't as this was more of an experimentation rather than something I want to create.
 
 
 A little about it
